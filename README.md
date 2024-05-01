@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lamia Chekkaba aka @lamia-datalover
+- 👋 Hi, I’m Lamia Chekkaba aka forever a learner
 - 👀 I’m interested in data science, data engineering , personal development and psychologie !
 - 🌱 I’m currently learning about data in general  
 - 💞️ I’m looking to collaborate on data projetcs ( it can be data science, data engineering, data analysis ) 
