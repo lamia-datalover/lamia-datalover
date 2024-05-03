@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data projetcs ( it can be data science, data engineering, data analysis ) 
 - 📫 How to reach me : lamiachekkaba.data@gmail.com 
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: as a geek I am funny 
+- ⚡ Fun fact: as a geek I am funny ! 
 
 <!---
 lamia-datalover/lamia-datalover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
